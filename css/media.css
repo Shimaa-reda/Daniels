@@ -1,0 +1,134 @@
+@media (min-width:992px) {
+    .container{
+       
+        max-width: 900px;
+    }
+    .contact .container{
+        max-width: 790px;
+    }
+    
+}
+
+@media (max-width: 991px) {
+    
+    
+    .about .image{
+        margin-bottom: 80px !important;
+    }
+    .services .inner .content{
+       
+        padding: 10px;
+        
+    }
+    .services .inner .content p{
+       
+        font-size: 14px;
+        
+    }
+    .testimonials .container{
+        padding: 0px !important;
+    }
+    .testimonials .content p {
+        font-size: 15px;
+        
+    }
+  
+   
+     
+ 
+
+}
+@media (max-width:768px) {
+    .container{
+       
+        max-width: 1100px;
+    }
+   
+
+    nav ul li{
+        background-color: white !important;
+        
+        text-align: center !important;
+       
+    }
+   nav  ul li a{
+        color: black !important;
+    }
+    .navbar-toggler{
+        border: none !important;
+     }
+     .teams .inner{
+        margin-bottom: 10px;
+     }
+     .contact form input{
+        margin-top: 10px;
+     }
+     .counters .box{
+        margin-top: 30px;
+     }
+     .portofolio .row .inner{
+        margin-top: 10px;
+
+     }
+     .contact .inner{
+        margin-top: 15px;
+     }
+     .services .inner{
+        margin-top: 15px;
+     }
+     header h2{
+       
+        font-size: 30px;
+        
+    }
+     header .typing{
+       
+        font-size: 30px !important;
+       
+    }
+    .navbar .nav-link::before{
+  
+        
+        left: 0;
+        
+        
+    
+     }
+    .navbar .nav-link.active::before{
+
+        width: 100%;
+     }
+    
+    
+    
+    
+    
+}
+@media (max-width: 576px) {
+    header .headerp{
+        font-size: 40px;
+       }
+
+       .contact .touch,.about-text{
+        margin-top: 30px ;
+        font-size: 30px !important;
+
+    }
+    .contact .more p{
+        font-size: 22px;
+    }
+    .about .about-text::after{
+       
+        top: 38px;
+     }
+    
+   
+   
+
+     
+
+     
+    
+
+}
+
